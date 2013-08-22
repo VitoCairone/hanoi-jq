@@ -1,0 +1,39 @@
+
+.tower {
+	height: 200px;
+	width: 100px;
+	background-color: black;
+	display: inline-block;
+	vertical-align: bottom;
+	display: table-cell;
+	padding: 20px;
+	border-style: groove;
+	border-width: 2px;
+}
+
+.towerHilight {
+	background-color: gray;
+	border-style: groove;
+	border-color: yellow;
+	border-width: 2px;
+}
+
+#disc1 {
+	height: 50px;
+	width: 60px;
+	background-color: green;
+	margin-left: 20px;
+}
+
+#disc2 {
+	height: 50px;
+	width: 80px;
+	margin-left: 10px;
+	background-color: red;
+}
+
+#disc3 {
+	height: 50px;
+	width: 100px;
+	background-color: blue;
+}
