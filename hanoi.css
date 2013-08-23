@@ -1,7 +1,7 @@
 
 .tower {
-	height: 200px;
-	width: 100px;
+	height: 300px;
+	width: 160px;
 	background-color: black;
 	display: inline-block;
 	vertical-align: bottom;
@@ -18,22 +18,43 @@
 	border-width: 2px;
 }
 
+#messages {
+	font-size: 96;
+	color: black;
+	font-weight: bolder;
+}
+
 #disc1 {
 	height: 50px;
 	width: 60px;
 	background-color: green;
-	margin-left: 20px;
+	margin-left: 50px;
 }
 
 #disc2 {
 	height: 50px;
 	width: 80px;
-	margin-left: 10px;
+	margin-left: 40px;
 	background-color: red;
 }
 
 #disc3 {
 	height: 50px;
 	width: 100px;
+	margin-left: 30px;
 	background-color: blue;
+}
+
+#disc4 {
+	height: 50px;
+	width: 120px;
+	margin-left: 20px;
+	background-color: purple;
+}
+
+#disc5 {
+	height: 50px;
+	width: 140px;
+	margin-left: 10px;
+	background-color: chartreuse;
 }
